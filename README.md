@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CG-Bell
-- 👀 I’m interested in ... learning to code well!
-- 🌱 I’m currently learning ... Java Script
+- 👀 I’m interested in learning to code well!
+- 🌱 I’m currently learning Python, Google Cloud, Kubernetes
 - 💞️ I’m looking to collaborate on ... well, anything!
-- 📫 How to reach me ... GitHub
+- 📫 How to reach me GitHub, twitch.tv/cgbellsmith
